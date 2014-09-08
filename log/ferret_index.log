@@ -1,0 +1,304 @@
+# Logfile created on Mon Aug 18 16:15:58 +0100 2014 by logger.rb/1.2.6
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/user
+rebuild index: [User]
+reindexing model User
+reindex model User : 933.33% complete : 0.17 secs to finish
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/user
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/user
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/user
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/user
+query: +(firstname:john lastname:john) +(firstname:williams lastname:williams)
+stored_fields: 
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/user
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/user
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/user
+query: +(firstname:john lastname:john) +(firstname:williams lastname:williams)
+stored_fields: 
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/user
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/user
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/user
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/user
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+rebuild index: [CatalogItem]
+reindexing model CatalogItem
+reindex model CatalogItem : 232000.00% complete : -0.03 secs to finish
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+query: description:scaffold name:scaffold source_part_num:scaffold
+stored_fields: 
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/policy
+rebuild index: [Policy]
+reindexing model Policy
+reindex model Policy : 100.00% complete : 0.01 secs to finish
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/policy
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/policy
+query: name:scaffold
+stored_fields: 
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+query: description:tower name:tower source_part_num:tower
+stored_fields: 
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+query: description:narrow name:narrow source_part_num:narrow
+stored_fields: 
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/user
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/user
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/user
+query: 
+stored_fields: 
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/user
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/user
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/user
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/account
+rebuild index: [Account]
+reindexing model Account
+reindex model Account : 100.00% complete : 0.10 secs to finish
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/account
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/user
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/user
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/user
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/user
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/user
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/user
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/user
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/user
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/user
+query: 
+stored_fields: 
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/user
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/user
+query: 
+stored_fields: 
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/user
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/user
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/user
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/user
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/user
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at ./script/backgroundrb/../../config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/user
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/user
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/user
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/user
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/user
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/user
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/user
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/user
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+query: description:scaffold name:scaffold source_part_num:scaffold
+stored_fields: 
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/policy
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/policy
+query: name:scaffold
+stored_fields: 
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/user
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/user
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/user
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/user
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/user
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/user
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/user
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/user
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/user
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/user
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/user
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/user
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/user
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/user
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/user
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/user
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/user
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/user
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/user
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/user
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/user
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/catalog_item
+query: description:kg123 name:kg123 source_part_num:kg123
+stored_fields: 
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/policy
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/policy
+LocalIndex: ensure_index_exists at C:/kierprocure/config/../index/development/policy
+query: name:kg123
+stored_fields: 
